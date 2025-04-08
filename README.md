@@ -2,13 +2,11 @@
 
 ###
 
-<h3 align="left">I'm a beginner Software Engineer. I know C, C++, c#, HTML, CSS, JS.
+<h3 align="left">I'm a beginner Software Engineer
 <br>
-I am actively learning and ready for any job in the IT sector. Looking for myself!</h3>
+Actively learning and ready for any job in the IT sector. Looking for myself!</h3>
 
-###
-
-<br>
+### Skills
 
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" alt="javascript logo"  />
