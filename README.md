@@ -19,12 +19,12 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   <img width="12" />
 </div>
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="40" />
   <img width="12" />
-  <img src="https://icons8.com/icon/40670/c-programming" 
+  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" 
   height="40" />
   <img width="12" />
-  <img src="https://icons8.com/icon/55205/c-sharp-logo"
+  <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"
   height="40"  />
   <img width="12" />
 </div>
