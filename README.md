@@ -6,7 +6,7 @@
 <br>
 Actively learning and ready for any job in the IT sector. Looking for myself!</h3>
 
-### <b>Skills:</b>
+### Skills:
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" />
@@ -29,10 +29,10 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   <img width="12" />
 </div>
 
-###
+### Follow me:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/miroslav-pisaryk-953490261"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40"/></a>
+<div align="left">
+  <a href="www.linkedin.com/in/denis-arkhipets-82932635b"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="12" height="40"/></a>
  <a href="#"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/></a>
    <a href="mailto:nofckwithme@gmail.com">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
