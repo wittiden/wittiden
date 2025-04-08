@@ -1,11 +1,12 @@
+<div align="center">
 ![Header](https://github.com/WITI4/WITI4/blob/main/assets/star-wars-the-child.gif)
+</div>
 
-Studing in BSUIR in IEF fuculty. I aspire to become a backend developer.
+Studing in BSUIR in IEF fuculty. I aspire to become a programmer.
 
 * 🌍  I'm based in Minsk, Belarus
-* ✉️  You can contact me at [ignatladno@gmail.com](mailto:ignatladno@gmail.com)
-* 🧠  I'm learning C/C++;Java;Python.
-* ⚡  I am not maniac(not sure).
+* ✉️  You can contact me at [ar.denis.by@gmailcom](mailto:ar.denis.by@gmail.com)
+* 🧠  I'm learning C/C++/c#;HTML/CSS/JS.
 
 
 ### Skills:
