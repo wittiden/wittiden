@@ -32,7 +32,7 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
 ### Follow me:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/miroslav-pisaryk-953490261"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40"/></a>
+  <a href="https://www.linkedin.com/in/denis-arkhipets-82932635b"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40"/></a>
  <a href="#"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/></a>
    <a href="mailto:nofckwithme@gmail.com">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
