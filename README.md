@@ -36,7 +36,4 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" 
   height="40" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000"
-  height="40"  />
-  <img width="12" />
 </div>
