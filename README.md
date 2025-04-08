@@ -28,6 +28,7 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   height="40"  />
   <img width="12" />
 </div>
+
 ###
 
 <div align="center">
