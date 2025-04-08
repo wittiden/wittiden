@@ -1,4 +1,4 @@
-<h1 align="left">I'm Denis</h1>
+<h1 align="left">I'm Denis💋</h1>
 
 ###
 
@@ -8,7 +8,7 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
 
 ### Skills
 
-<div align="center">
+<div align="left">
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
