@@ -6,7 +6,7 @@
 <br>
 Actively learning and ready for any job in the IT sector. Looking for myself!</h3>
 
-### Skills
+### Skills:
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" />
@@ -18,7 +18,16 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   height="40"  />
   <img width="12" />
 </div>
-
+<div align="left">
+  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" />
+  <img width="12" />
+  <img src="https://icons8.com/icon/40670/c-programming" 
+  height="40" />
+  <img width="12" />
+  <img src="https://icons8.com/icon/55205/c-sharp-logo"
+  height="40"  />
+  <img width="12" />
+</div>
 ###
 
 <div align="center">
