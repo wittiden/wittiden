@@ -6,7 +6,7 @@
 <br>
 Actively learning and ready for any job in the IT sector. Looking for myself!</h3>
 
-### Skills:
+### Main skills:
 
 <div class="lang" align="left">
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="40" />
