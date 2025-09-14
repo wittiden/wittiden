@@ -8,17 +8,6 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
 
 ### Skills:
 
-<div class="web" align="left">
-  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="40" />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=78108&format=png&color=000000" 
-  height="40" />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
-  height="40"  />
-  <img width="12" />
-</div>
-
 <div class="lang" align="left">
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="40" />
   <img width="12" />
@@ -27,13 +16,5 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"
   height="40"  />
-  <img width="12" />
-</div>
-
-<div class="editors" align="left">
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="40" />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" 
-  height="40" />
   <img width="12" />
 </div>
