@@ -15,3 +15,8 @@ Actively learning and ready for any job in the IT sector. Looking for myself!</h
   height="40" />
   <img width="12" />
 </div>
+<div>
+  <center> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHIKOJgg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</center>
+</div>
