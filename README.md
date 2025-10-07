@@ -4,7 +4,7 @@
 
 <h3 align="left">I'm a beginner Software Engineer
 <br>
-Actively learning and ready for any job in the IT sector. Looking for myself!</h3>
+Actively looking for any job in the IT sector. Looking for myself!</h3>
 
 ### Main skills:
 
