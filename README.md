@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&custom_title=Denis's%20GitHub%20Activity&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=7c3aed&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&custom_title=%20GitHub%20Activity&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=7c3aed&area=true&hide_border=true" />
 </div>
 
 ###
