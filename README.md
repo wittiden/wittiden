@@ -1,53 +1,79 @@
 <h1 align="left">Hello, I'm Denis!</h1>
 
-###
-<h3 align="left">📌Beginner Software Engineer </h3>
+<h3 align="left">Future machine Learning Engineer</h3>
 
-###
+
+- 🔬 Interested in Deep Learning & AI systems  
+- 📊 Working with data analysis and model optimization  
+- ⚙️ Building backend logic and scalable systems  
+
+---
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<h4 align="left">💻 Languages</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img width="12" />
+</div>
+
+<br>
+
+<h4 align="left">🤖 Machine Learning</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+</div>
+
+<br>
+
+<h4 align="left">⚙️ Backend & APIs</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
+</div>
+
+<br>
+
+<h4 align="left">🛠️ Tools</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wittiden&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&custom_title=GitHub%20Activity&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=7c3aed&area=true&hide_border=true" />
 </div>
 
-###
-<br>
-<h2 align="left">🛠️ Main Skills</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-<br>
-<h2 align="left">📫 Connect with me</h2>
+<h2 align="left">📫 Connect with Me</h2>
 
 <div align="left">
   <a href="https://t.me/mrbsuir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://discord.com/users/mrbsuir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://linkedin.com/in/wittiden" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&custom_title=%20GitHub%20Activity&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=7c3aed&area=true&hide_border=true" />
-</div>
-
-###
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=wittiden&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=wittiden&color=blueviolet&style=flat-square" />
 </div>
