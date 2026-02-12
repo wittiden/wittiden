@@ -21,18 +21,21 @@
 
 <br>
 
-<h4 align="left">🤖 Machine Learning</h4>
+<h4 align="left">Machine Learning, Optimization & Mathematical Modeling </h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pyomo.svg" height="40"/>
 </div>
+
 
 <br>
 
-<h4 align="left">⚙️ Backend & APIs</h4>
+<h4 align="left">Backend & APIs</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
   <img width="12" />
@@ -41,7 +44,7 @@
 
 <br>
 
-<h4 align="left">🛠️ Tools</h4>
+<h4 align="left">Tools</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12" />
