@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pyomo.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Pyomo-3E8EDE?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 
