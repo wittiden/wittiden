@@ -73,6 +73,11 @@
     <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
+<h3>🗄️ Databases</h3>
+<p>
+  soon...
+</p>
+
 <h3>🧠 Event-Driven Architecture</h3>
 <p>
   <img src="https://img.shields.io/badge/Blinker-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/>
