@@ -75,7 +75,8 @@
 
 <h3>🗄️ Databases</h3>
 <p>
-  soon...
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h3>🧠 Event-Driven Architecture</h3>
