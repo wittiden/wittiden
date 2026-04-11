@@ -73,22 +73,17 @@
     <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
-<h3>🗄️ Databases</h3>
+<h3>🗄️ Databases & Migrations</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>🧠 Event-Driven Architecture</h3>
-<p>
-  <img src="https://img.shields.io/badge/Blinker-6A5ACD?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<h3>🏗️ Backend Tooling & Production Systems</h3>
+<h3>🏗️ Backend Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruff_Linter-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aenum-1A202C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h3>🧪 Testing</h3>
@@ -96,12 +91,10 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
-<h3>🌐 Parsing</h3>
+<h3>🌐 Data Collection & Web Scraping</h3>
 <p>
   <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lxml-2C3E50?style=for-the-badge&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fake_UserAgent-34495E?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h3>🛠️ DevOps & Infrastructure</h3>
