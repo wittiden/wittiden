@@ -53,13 +53,15 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>💻 Languages</h3>
+<h3>💻 Core Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-<h3>🤖 ML Layer</h3>
+---
+
+<h3>🤖 Machine Learning & Data Layer</h3>
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -67,35 +69,56 @@
   <img src="https://img.shields.io/badge/Pyomo-3E8EDE?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>⚙️ Backend Engineering</h3>
+---
+
+<h3>⚙️ Backend Frameworks & API Layer</h3>
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
-<h3>🗄️ Databases & Migrations</h3>
+---
+
+<h3>🗄️ Databases, ORM & Migrations</h3>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>🏗️ Backend Tools</h3>
+---
+
+<h3>🏗️ Architecture & Design Patterns</h3>
 <p>
-  <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruff_Linter-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDD--lite-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 </p>
 
-<h3>🧪 Testing</h3>
+---
+
+<h3>⚙️ Backend Core Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+<h3>🧪 Testing & Quality</h3>
 <p>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
+
+---
 
 <h3>🌐 Data Collection & Web Scraping</h3>
 <p>
   <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+---
 
 <h3>🛠️ DevOps & Infrastructure</h3>
 <p>
