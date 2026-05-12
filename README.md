@@ -75,6 +75,8 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 </p>
 
 ---
@@ -91,8 +93,7 @@
 <h3>🏗️ Architecture & Design Patterns</h3>
 <p>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DDD--lite-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDD-7c3aed?style=for-the-badge"/>
 </p>
 
 ---
