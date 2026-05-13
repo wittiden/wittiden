@@ -109,7 +109,17 @@
 <h3>🧪 Testing & Quality</h3>
 <p>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytest--asyncio-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
 </p>
+
+<ul>
+  <li>Unit tests</li>
+  <li>Integration tests</li>
+  <li>Database testing</li>
+  <li>Fixtures & mocking</li>
+  <li>Async API testing</li>
+</ul>
 
 ---
 
