@@ -102,6 +102,8 @@
 <p>
   <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pyright-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=git&logoColor=black"/>
 </p>
 
 ---
