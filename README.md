@@ -90,10 +90,14 @@
 
 ---
 
-<h3>🏗️ Architecture & Design Patterns</h3>
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DDD-7c3aed?style=for-the-badge"/>
+<h3>🏗️ Tech & Architecture</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unit_of_Work-2C8EBB?style=for-the-badge&logo=transaction&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ACID-FF5722?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
