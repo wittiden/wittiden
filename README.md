@@ -53,23 +53,20 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>💻 Core Languages</h3>
+<h3>💻 Core Language</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
 
-<h3>🤖 Machine Learning & Data Layer</h3>
+<!-- <h3>🤖 Machine Learning & Data Layer</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pyomo-3E8EDE?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
+</p> -->
 
 <h3>⚙️ Backend Frameworks & API Layer</h3>
 <p align="center">
@@ -93,7 +90,7 @@
 <h3>🏗️ Tech & Architecture</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
@@ -119,20 +116,22 @@
 <h3>🧪 Testing & Quality</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytest--asyncio-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytest--mock-FFD43B?style=for-the-badge&logo=pytest&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/
+  <img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
 </p>
 
 ---
 
-<h3>🌐 Data Collection & Web Scraping</h3>
+<!-- <h3>🌐 Data Collection & Web Scraping</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+--- -->
 
 <h3>🛠️ DevOps & Infrastructure</h3>
 <p align="center">
