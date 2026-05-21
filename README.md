@@ -93,9 +93,7 @@
   <!-- <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-<p align="center">
+  <br>
   <img src="https://img.shields.io/badge/REST_API-25A162?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unit_of_Work-2C8EBB?style=for-the-badge&logo=transaction&logoColor=white"/>
   <img src="https://img.shields.io/badge/ACID-FF5722?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -116,11 +114,13 @@
 <h3>🧪 Testing & Quality</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/
   <img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
