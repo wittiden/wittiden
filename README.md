@@ -78,6 +78,14 @@
 
 ---
 
+<h3>🚀 API Server & Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+</p>
+
+---
+
 <h3>🗄️ Databases, ORM & Migrations</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -119,7 +127,6 @@
   <img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
   <br>
   <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Faker-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -137,7 +144,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
 </p>
 
 <p align="center">
