@@ -95,6 +95,13 @@
 
 ---
 
+<h3>⚡ Caching & Async Infrastructure</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
 <h3>🏗️ Tech & Architecture</h3>
 
 <p align="center">
