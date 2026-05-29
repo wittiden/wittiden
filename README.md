@@ -109,6 +109,7 @@
   <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Middleware-4B5563?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-25A162?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unit_of_Work-2C8EBB?style=for-the-badge&logo=transaction&logoColor=white"/>
   <img src="https://img.shields.io/badge/ACID-FF5722?style=for-the-badge&logo=postgresql&logoColor=white"/>
