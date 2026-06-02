@@ -5,13 +5,13 @@
   </h1>
 
   <p>
-    I'm a future Backend Engineer and ML Systems Developer
+    I'm a Backend Engineer passionate about building scalable systems
   </p>
 
   <p>
      <em>
        <a href="https://github.com/wittiden">
-         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Backend+%7C+Machine+Learning+Systems+Engineer;Building+Scalable+AI+%26+Data+Pipelines;Python+%7C+ML+%7C+Distributed+Systems" alt="Typing SVG" />
+         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Backend+Engineer;Building+Scalable+APIs+%26+Distributed+Systems;Python+%7C+FastAPI+%7C+System+Design" alt="Typing SVG" />
        </a>
      </em> 
   </p>
@@ -23,28 +23,28 @@
 <h3>🌟 Who I am</h3>
 
 <p>
-  I am a <strong>2nd-year student</strong> focused on becoming a 
-  <strong>Backend Engineer and Machine Learning Systems Developer</strong>.
+  I am a <strong>2nd-year student</strong> specializing in building 
+  <strong>scalable APIs, distributed systems, and high-performance applications</strong>.
 </p>
 
 <p>
-  My main goal is to build a strong foundation in 
-  <strong>software engineering, distributed systems, and machine learning</strong>, 
-  while working on real-world projects that combine <strong>data, APIs, and AI models</strong>.
+  My main goal is to create robust, production-ready backend systems with 
+  <strong>clean architecture, proper error handling, and efficient data processing</strong>.
 </p>
 
 <h3>📚 What I'm Currently Learning</h3>
 <ul>
-  <li><strong>Backend Development</strong> (FastAPI, system design basics)</li>
-  <li><strong>Machine Learning</strong> (PyTorch, model training, evaluation)</li>
-  <li><strong>Data Structures & Algorithms</strong> (for technical interviews & fundamentals)</li>
-  <li><strong>Databases</strong></li>
+  <li><strong>Backend Development</strong> (FastAPI, system design, microservices)</li>
+  <li><strong>Database Optimization</strong> (PostgreSQL, indexing, query optimization)</li>
+  <li><strong>Distributed Systems</strong> (message queues, caching)</li>
+  <li><strong>DevOps & Cloud</strong> (Docker, CI/CD pipelines)</li>
 </ul>
 
 <h3>🎯 Long-term Goal</h3>
 <p>
-  To grow into a <strong>Machine Learning Systems Engineer</strong> capable of designing 
-  production-grade AI systems that connect <strong>models, data pipelines, and backend infrastructure</strong>.
+  To become a <strong>Senior Backend Engineer</strong> capable of architecting 
+  and building enterprise-grade distributed systems that handle millions of requests 
+  with high availability and low latency.
 </p>
 
 </div>
@@ -59,14 +59,6 @@
 </p>
 
 ---
-
-<!-- <h3>🤖 Machine Learning & Data Layer</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pyomo-3E8EDE?style=for-the-badge&logo=python&logoColor=white"/>
-</p> -->
 
 <h3>⚙️ Backend Frameworks & API Layer</h3>
 <p align="center">
@@ -93,12 +85,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-<h3>⚡ Caching & Async Infrastructure</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
@@ -107,7 +93,7 @@
 <h3>🏗️ Tech & Architecture</h3>
 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
   <br>
@@ -142,19 +128,10 @@
 
 ---
 
-<!-- <h3>🌐 Data Collection & Web Scraping</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-8E44AD?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
---- -->
-
 <h3>🛠️ DevOps & Infrastructure</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
 </p>
 
 <p align="center">
