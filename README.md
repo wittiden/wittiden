@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 </p>
 
