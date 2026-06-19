@@ -122,9 +122,13 @@
   <img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pytest--cov-2B2B2B?style=for-the-badge"/>
   <br>
   <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Faker-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
 </p>
 
 ---
