@@ -37,8 +37,7 @@
   <li><strong>Backend Development</strong> (FastAPI, system design, microservices)</li>
   <li><strong>Database Optimization</strong> (PostgreSQL, indexing, query optimization)</li>
   <li><strong>Distributed Systems</strong> (message queues, caching)</li>
-  <li><strong>DevOps & Cloud</strong> (Docker, CI/CD pipelines)</li>
-</ul>
+  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Jaeger, OpenTelemetry)</li></ul>
 
 <h3>🎯 Long-term Goal</h3>
 <p>
@@ -133,12 +132,18 @@
 
 ---
 
-<h3>🛠️ DevOps & Infrastructure</h3>
+<h3>🛠️ DevOps, Monitoring & Observability</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
+  <br>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 </p>
 
 <p align="center">
