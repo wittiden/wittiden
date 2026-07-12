@@ -36,8 +36,9 @@
 <ul>
   <li><strong>Backend Development</strong> (FastAPI, system design, microservices)</li>
   <li><strong>Database Optimization</strong> (PostgreSQL, indexing, query optimization)</li>
-  <li><strong>Distributed Systems</strong> (message queues, caching)</li>
-  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Jaeger, OpenTelemetry)</li></ul>
+  <li><strong>Distributed Systems</strong> (message queues, caching, Celery)</li>
+  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, Sentry)</li>
+</ul>
 
 <h3>🎯 Long-term Goal</h3>
 <p>
@@ -62,6 +63,7 @@
 <h3>⚙️ Backend Frameworks & API Layer</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -144,6 +146,7 @@
   <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
 <p align="center">
