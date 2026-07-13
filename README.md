@@ -37,7 +37,7 @@
   <li><strong>Backend Development</strong> (FastAPI, system design, microservices)</li>
   <li><strong>Database Optimization</strong> (PostgreSQL, indexing, query optimization)</li>
   <li><strong>Distributed Systems</strong> (message queues, caching, Celery)</li>
-  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, Sentry)</li>
+  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Promtail, Jaeger, OpenTelemetry, Sentry)</li>
 </ul>
 
 <h3>🎯 Long-term Goal</h3>
@@ -143,10 +143,11 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -173,6 +174,7 @@
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=wittiden&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>    
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/github/followers/wittiden?label=Followers&style=flat&color=7c3aed" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/wittiden?label=Stars&style=flat&color=FFD700" alt="Stars"/>    
 </p>
