@@ -32,13 +32,7 @@
   <strong>clean architecture, proper error handling, and efficient data processing</strong>.
 </p>
 
-<h3>📚 What I'm Currently Learning</h3>
-<ul>
-  <li><strong>Backend Development</strong> (FastAPI, system design, microservices)</li>
-  <li><strong>Database Optimization</strong> (PostgreSQL, indexing, query optimization)</li>
-  <li><strong>Distributed Systems</strong> (message queues, caching, Celery)</li>
-  <li><strong>DevOps & Observability</strong> (Docker, CI/CD, Prometheus, Grafana, Loki, Promtail, Jaeger, OpenTelemetry, Sentry)</li>
-</ul>
+<br>
 
 <h3>🎯 Long-term Goal</h3>
 <p>
@@ -53,102 +47,84 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>💻 Core Language</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+
+&nbsp;&nbsp;► Backend Frameworks & API Layer & DI
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
+</p>
+
+
+&nbsp;&nbsp;► API Server & Deployment
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+</p>
+
+                
+&nbsp;&nbsp;► Databases, ORM & Migrations & Cache
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+
+&nbsp;&nbsp;► Backend Core Tools & Pipelines
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pyright-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=git&logoColor=black"/>
+</p>
+
+
+&nbsp;&nbsp;► Testing & Quality
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--cov-2B2B2B?style=for-the-badge"/>
+</p>
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Faker-FF6B6B?style=for-the-badge"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
+</p>
+
+
+&nbsp;&nbsp;► DevOps, Monitoring & Observability
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+<p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=grafana&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+</p>
+
+<br>
 
 ---
-
-<h3>⚙️ Backend Frameworks & API Layer</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
-</p>
-
----
-
-<h3>🚀 API Server & Deployment</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-</p>
-
----
-
-<h3>🗄️ Databases, ORM & Migrations</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
----
-
-<h3>🏗️ Tech & Architecture</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=cleanarch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain_Driven_Design-7c3aed?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CQRS-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Middleware-4B5563?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-25A162?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unit_of_Work-2C8EBB?style=for-the-badge&logo=transaction&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ACID-FF5722?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-<h3>⚙️ Backend Core Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge&logo=logstash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pyright-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=git&logoColor=black"/>
-</p>
-
----
-
-<h3>🧪 Testing & Quality</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pytest--cov-2B2B2B?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Faker-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
-</p>
-
----
-
-<h3>🛠️ DevOps, Monitoring & Observability</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" />
@@ -156,25 +132,7 @@
 
 ---
 
-<h2>📫 Connect with Me</h2>
-
 <p align="center">
-  <a href="https://t.me/mrbsuir">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/mrbsuir">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/wittiden">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=wittiden&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views"/>    
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/github/followers/wittiden?label=Followers&style=flat&color=7c3aed" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/wittiden?label=Stars&style=flat&color=FFD700" alt="Stars"/>    
+  &nbsp;&nbsp;<a href="https://t.me/mrbsuir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  &nbsp;&nbsp;<a href="https://linkedin.com/in/wittiden"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
