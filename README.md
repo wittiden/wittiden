@@ -95,8 +95,6 @@
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--mock-6E40C9?style=for-the-badge"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--asyncio-3776AB?style=for-the-badge"/>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--xdist-2C3E50?style=for-the-badge"/>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/pytest--cov-2B2B2B?style=for-the-badge"/>
 </p>
 <p>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
@@ -112,8 +110,7 @@
 <p>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></p>
 <p>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
