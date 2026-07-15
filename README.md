@@ -116,11 +116,7 @@
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=grafana&logoColor=white"/>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black"/>
   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-</p>
-<p>
-  &nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 </p>
 
 <br>
