@@ -48,6 +48,7 @@ Build reliable backend systems capable of handling millions of requests with hig
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 </p>
 
@@ -75,6 +76,7 @@ Build reliable backend systems capable of handling millions of requests with hig
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAdmin-0F172A?style=for-the-badge"/>
 </p>
 
 <h5>🧪 Testing</h5>
