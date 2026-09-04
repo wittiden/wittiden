@@ -118,7 +118,6 @@ A digital banking REST API modeling real financial operations — multi-currency
 <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAdmin-0F172A?style=for-the-badge"/>
 </p>
 
 <h5>🧪 Testing</h5>
