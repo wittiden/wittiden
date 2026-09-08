@@ -153,7 +153,7 @@ A digital banking REST API modeling real financial operations — multi-currency
 ## 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,pycharm,git,linux" />
+  <img src="https://skillicons.dev/icons?i=github,pycharm,git,linux,obsidian" />
 </p>
 
 ---
