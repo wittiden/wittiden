@@ -111,6 +111,7 @@ A digital banking REST API modeling real financial operations — multi-currency
 <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/bcrypt-5A3E2B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
 </p>
 
 <h5>🚀 Deployment</h5>
