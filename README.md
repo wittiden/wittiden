@@ -20,29 +20,7 @@
 
 ---
 
-## 🌟 About Me
-
-I'm a backend engineer focused on **scalable APIs**, **distributed systems**, and **production-ready backend services**. I like building systems that stay predictable under load: clear service boundaries, async I/O done right, and enough observability that a 3 a.m. incident is a quick lookup instead of a guessing game.
-
-I care about systems that are:
-
-- **Scalable** — designed to handle growth without a rewrite
-- **Maintainable** — clean architecture, explicit contracts, readable code
-- **Fault-tolerant** — graceful degradation instead of cascading failure
-- **Observable** — metrics, structured logs, and traces that actually help during an incident
-- **Easy to extend** — new features shouldn't require fighting the existing design
-
-My day-to-day interests: backend architecture, asynchronous processing, database performance, testing, CI/CD, and full-stack observability (the MELT stack: Metrics, Events, Logs, Traces).
-
----
-
-## 🎯 Engineering Goal
-
-Build reliable backend systems capable of handling real production traffic with high availability, efficient resource usage, and observability built in from day one — not bolted on after the first outage.
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📋 [TaskService](https://github.com/wittiden/TaskService)
 
@@ -105,20 +83,11 @@ A digital banking REST API modeling real financial operations — multi-currency
 <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge"/>
 </p>
 
-<h5>🔐 Security & Validation</h5>
+<h5>🔐 Security</h5>
 <p>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/bcrypt-5A3E2B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
-</p>
-
-<h5>🚀 Deployment</h5>
-<p>
-<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge"/>
 </p>
 
 <h5>🧪 Testing</h5>
@@ -126,12 +95,12 @@ A digital banking REST API modeling real financial operations — multi-currency
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Faker-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
 </p>
 
-<h5>🔄 CI/CD & Code Quality</h5>
+<h5>🔄 Build & Quality</h5>
 <p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge"/>
@@ -155,14 +124,6 @@ A digital banking REST API modeling real financial operations — multi-currency
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,pycharm,git,linux,obsidian" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wittiden&bg_color=0d1117&color=009688&line=009688&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
