@@ -15,7 +15,7 @@
       </a>
     </em>
   </p>
-  
+
 </div>
 
 ---
@@ -27,18 +27,20 @@
 A production-ready task management REST API built to showcase a full **Clean Architecture** implementation with a complete observability stack, not just CRUD endpoints.
 
 **What it does:**
-- JWT authentication with RSA-signed access/refresh tokens and full token rotation
-- Role-based access control (Admin / VIP / Standard)
-- Task CRUD with status tracking (active, completed, closed) and full audit logging
-- Per-endpoint rate limiting and Redis-backed session/user caching
+
+* JWT authentication with RSA-signed access/refresh tokens and full token rotation
+* Role-based access control (Admin / VIP / Standard)
+* Task CRUD with status tracking (active, completed, closed) and full audit logging
+* Per-endpoint rate limiting and Redis-backed session/user caching
 
 **What makes it interesting:**
-- **Clean Architecture** end-to-end — presentation, application, domain, and infrastructure layers stay properly decoupled, wired together with the **Dishka** DI container
-- **Full MELT observability**: Prometheus metrics, Grafana dashboards, Sentry error tracking, and structured Loguru logging with rotation and JSON output for log aggregation
-- **CI/CD pipeline** on GitHub Actions running lint (Ruff), type checking (Pyright), and a matrix test suite across Python 3.12–3.14 with real Postgres and Redis service containers, plus coverage gating (≥70%) uploaded to Codecov
-- Fully containerized with Docker Compose, including optional profiles for PgAdmin, RedisInsight, and Grafana
 
-**Stack:** FastAPI · SQLAlchemy 2.0 (async) · PostgreSQL · Redis · Alembic · Dishka · Pytest · Testcontainers
+* **Clean Architecture** end-to-end — presentation, application, domain, and infrastructure layers stay properly decoupled, wired together with the **Dishka** DI container
+* **Full MELT observability**: Prometheus metrics, Grafana dashboards, Sentry error tracking, and structured Loguru logging with rotation and JSON output for log aggregation
+* **CI/CD pipeline** on GitHub Actions running lint (Ruff), type checking (Pyright), and a matrix test suite across Python 3.12–3.14 with real Postgres and Redis service containers, plus coverage gating (≥70%) uploaded to Codecov
+* Fully containerized with Docker Compose, including optional profiles for PgAdmin, RedisInsight, and Grafana
+
+**Stack:** FastAPI · SQLAlchemy 2.0 (async) · PostgreSQL · Redis · Alembic · Dishka · Pytest · Testcontainers · uv
 
 ---
 
@@ -47,18 +49,20 @@ A production-ready task management REST API built to showcase a full **Clean Arc
 A digital banking REST API modeling real financial operations — multi-currency wallets, balances, and transfers — with the kind of data integrity and access control a banking system actually needs.
 
 **What it does:**
-- RSA-signed JWT auth (RS256) with access/refresh rotation and token revocation
-- Debit and credit wallets protected by a hashed PIN, with block/unblock and soft-close flows
-- Multi-currency balances (regular and foreign) per wallet, with admin freeze/unfreeze controls
-- Deposits, withdrawals, and inter-wallet transfers with fee calculation
-- Full transaction history with status tracking (pending / success / failed) and type classification
-- Dedicated admin surface for managing users, wallets, balances, and transactions
+
+* RSA-signed JWT auth (RS256) with access/refresh rotation and token revocation
+* Debit and credit wallets protected by a hashed PIN, with block/unblock and soft-close flows
+* Multi-currency balances (regular and foreign) per wallet, with admin freeze/unfreeze controls
+* Deposits, withdrawals, and inter-wallet transfers with fee calculation
+* Full transaction history with status tracking (pending / success / failed) and type classification
+* Dedicated admin surface for managing users, wallets, balances, and transactions
 
 **What makes it interesting:**
-- **Domain modeling that mirrors real banking constraints**: `User → Wallet → Balance → Transaction`, where every financial operation is atomic and auditable
-- Consistent modular layout per feature (`api` → `contracts` → `service` → `repository`) so every module is easy to navigate the same way
-- Async **Unit of Work** pattern around every session/commit boundary — no partial writes on financial operations
-- Deployed via Docker Compose with a dedicated migrations profile, keeping schema changes explicit and repeatable
+
+* **Domain modeling that mirrors real banking constraints**: `User → Wallet → Balance → Transaction`, where every financial operation is atomic and auditable
+* Consistent modular layout per feature (`api` → `contracts` → `service` → `repository`) so every module is easy to navigate the same way
+* Async **Unit of Work** pattern around every session/commit boundary — no partial writes on financial operations
+* Deployed via Docker Compose with a dedicated migrations profile, keeping schema changes explicit and repeatable
 
 **Stack:** FastAPI · SQLAlchemy 2.0 (async) · PostgreSQL · Alembic · Dishka · PyJWT (RSA) · Pydantic v2
 
@@ -101,6 +105,7 @@ A digital banking REST API modeling real financial operations — multi-currency
 <h5>🔄 Build & Quality</h5>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge"/>
