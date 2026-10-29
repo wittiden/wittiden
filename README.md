@@ -79,6 +79,7 @@ Backend platform for agricultural production optimization, built as part of a co
 <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pyomo-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLAdmin-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
 </p>
 
 <h5>🗄️ Data & Storage</h5>
@@ -100,7 +101,6 @@ Backend platform for agricultural production optimization, built as part of a co
 <h5>🧪 Testing</h5>
 <p>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
 </p>
