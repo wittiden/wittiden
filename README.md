@@ -53,18 +53,17 @@ Digital banking REST API modeling real financial operations with the data integr
 
 ### 🌱 DAOS — Digital Agro Optimization System *(private / competition project)*
 
-Backend platform for agricultural production optimization, built as part of a competition track. Source is kept private.
+Backend platform for agricultural production optimization, split into two deployable services. Source is kept private.
 
-* Dual API surface: **REST** (FastAPI) for CRUD/integrations and **GraphQL** (Strawberry) for flexible client-driven queries over related entities
-* **PostgreSQL + MongoDB split**: PostgreSQL for transactional/relational domain data (with Alembic migrations and async SQLAlchemy 2.0), MongoDB for scenario-based documents — flexible, schema-less scenario definitions and calculation inputs that don't fit the relational model
-* **Pyomo + GLPK** optimization engine with a dedicated DTO layer
-* Keycloak auth (realm roles `free` / `standard` / `ultima` / `admin`) shared by both API contours
-* Celery + RabbitMQ background jobs, Redis for rate limiting/cache/results, SQLAdmin admin surface
+- **Two-service backend:** `profile-service` owns identity and access; `ao-service` owns the agronomic and optimization domain.
+- **`profile-service`:** Keycloak-backed OAuth2 resource server with hexagonal Ports & Adapters, REST + admin GraphQL, Celery/RabbitMQ background jobs and Redis rate limiting. Keycloak is the source of truth for users and roles — no local user database.
+- **`ao-service`:** REST + GraphQL over the agronomic model, PostgreSQL with async SQLAlchemy 2.0 and Alembic, a DTO-per-model optimization layer, Pyomo/GLPK optimization contour and SQLAdmin.
+- **Access model:** Keycloak realm roles `free` / `standard` / `ultima` / `admin`, enforced at the API edge and shared across the platform.
+- **Infrastructure:** Docker Compose per service, PostgreSQL, Redis, RabbitMQ, Celery workers and scheduled jobs.
 
-**Stack:** FastAPI · Strawberry GraphQL · SQLAlchemy 2.0 (async) · PostgreSQL · MongoDB · Alembic · Keycloak · Redis · RabbitMQ · Celery · Pyomo / GLPK · Dishka · SQLAdmin · uv
+**Stack:** FastAPI · Strawberry GraphQL · SQLAlchemy 2.0 (async) · PostgreSQL · Alembic · Keycloak · Redis · RabbitMQ · Celery · Pyomo / GLPK · Dishka · SQLAdmin · uv · Docker Compose
 
-> Status: private repository. Architecture walkthrough available on request.
-
+> Status: private repository. Architecture walkthrough and ADR set available on request.
 ---
 
 ## 🛠 Tech Stack
