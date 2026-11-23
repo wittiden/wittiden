@@ -11,12 +11,23 @@
   <p>
     <em>
       <a href="https://github.com/wittiden">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Backend+Engineer;Building+Scalable+APIs+%26+Distributed+Systems;Python+%7C+FastAPI+%7C+REST+%26+GraphQL;System+Design" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Backend+Intern+%40+InnoTech+Solutions;Building+Scalable+APIs+%26+Distributed+Systems;Python+%7C+FastAPI+%7C+Temporal;GitLab+%7C+Mattermost+%7C+Observability" alt="Typing SVG"/>
       </a>
     </em>
   </p>
 
 </div>
+
+---
+
+## 💼 Experience
+
+**Backend Intern @ InnoTech Solutions**
+
+- Migrated background jobs from Celery to Temporal.
+- Worked with 1C integrations and data.
+- Refactored legacy services and optimized existing backend logic.
+- Built internal backend features with Python, FastAPI, SQLAlchemy and PostgreSQL.
 
 ---
 
@@ -68,20 +79,20 @@ Backend platform for agricultural production optimization, split into two deploy
 
 ## 🛠 Tech Stack
 
-<h5>⚙️ Backend Core</h5>
+<h5>Backend Core</h5>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Strawberry_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dishka-DI%20Container-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pyomo-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLAdmin-D71F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTPX-5A29E4?style=for-the-badge"/>
 </p>
 
-<h5>🗄️ Data & Storage</h5>
+<h5>Data & Storage</h5>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -90,32 +101,30 @@ Backend platform for agricultural production optimization, split into two deploy
 <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge"/>
 </p>
 
-<h5>🔐 Security</h5>
+<h5>Security</h5>
 <p>
 <img src="https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
 <img src="https://img.shields.io/badge/SlowAPI-FF6B6B?style=for-the-badge"/>
 </p>
 
-<h5>🧪 Testing</h5>
+<h5>Testing</h5>
 <p>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/factory--boy-4C1?style=for-the-badge"/>
 </p>
 
-<h5>🔄 Build & Quality</h5>
+<h5>Build, Quality & Collaboration</h5>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruff-2D3748?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pyright-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"/>
 </p>
 
-<h5>📊 Observability</h5>
+
+<h5>Observability</h5>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -125,16 +134,13 @@ Backend platform for agricultural production optimization, split into two deploy
 <img src="https://img.shields.io/badge/Loguru-1F1F1F?style=for-the-badge"/>
 </p>
 
----
 
-## 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,pycharm,git,linux,obsidian" />
+<p>
+  <b>Tooling:</b> uv · Poetry · Ruff · Pyright · pre-commit · Codecov · Obsidian
 </p>
 
 ---
 
 <p align="center">
-  <sub>Open to backend roles where reliability and clean architecture are part of the job, not an afterthought.</sub>
+  <sub> Open to backend roles where reliability and clean architecture are part of the job, not an afterthought.</sub>
 </p>
